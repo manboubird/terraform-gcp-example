@@ -1,0 +1,4 @@
+*.swp
+account.json
+.terraform/
+terraform.tfstat*
